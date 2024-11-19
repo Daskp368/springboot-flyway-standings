@@ -42,9 +42,9 @@ public class MatchService {
         entry.setPlayedMatches(entry.getPlayedMatches() + 1);
 
         if (score > opponentScore) {
-            entry.setPoints(entry.getPoints() + 3); // Win
+            entry.setPoints(entry.getPoints() + 3); 
         } else if (score == opponentScore) {
-            entry.setPoints(entry.getPoints() + 1); // Draw
+            entry.setPoints(entry.getPoints() + 1); 
         }
 
         table.put(teamName, entry);
