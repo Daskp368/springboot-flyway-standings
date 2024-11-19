@@ -10,7 +10,7 @@
 ## Содержание
 
 - Java 23, Spring Boot, Lombok, Spring Data JPA, Flyway, PostgreSQL, JUnit. 
-- Скачайте .zip файл, разархивируйте архив, откройте проект в idea. Запустите класс Main.https://github.com/Daskp368/springboot-flyway-standings.git
+- Скачайте .zip файл, разархивируйте архив, откройте проект в idea. Запустите класс TournamentApplication. https://github.com/Daskp368/springboot-flyway-standings.git
 
 
 ## Настройка базы данных
